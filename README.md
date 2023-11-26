@@ -1,21 +1,19 @@
-# :boom: Guide Me Glasses (GMG) :boom:
-[![Licence](https://img.shields.io/github/license/GuiltyNeuron/ANPR?style=plastic)](https://github.com/GuiltyNeuron/SmartGlasses/blob/master/LICENSE)
-[![Documentation](https://img.shields.io/badge/documentation-TowardsDataScience-blue)](https://medium.com/@achraf_khazri/smart-glasses-project-1812392427d1)
-[![Python](https://img.shields.io/badge/python-3.5.5-yellow)](https://www.python.org/downloads/release/python-355/)
+# GuideSync
 
 > Bring the future to your eyes :eyeglasses:
 
-This project is for goal to help blind people to read text, get informations from the net, identify people faces and describe pictures using semantic sentences.
-![GuideMeGlassesLogo](docs/images/logo.png)
+This initiative aims to assist individuals with visual impairments by enabling them to read text, access information from the internet, recognize faces, and receive descriptive information about images through the generation of meaningful sentences.
 
 
-## :construction_worker: Prototype architecture
-![architecture](docs/architecture.png)
+##  Matriels
+Raspberry Pi
+Camera
+Battery
+Aurdino nano 3 
+wireless bluetooth
+Dsiplay for aurdino
 
-## :hammer: Matriels
-![matriels](docs/matriels.png)
-
-## :pencil: Usage
+##  Usage
 
 command options :
  - -t : task
@@ -87,14 +85,3 @@ Read text from input image
 python gmg.py -t ocr -i image_path -l en
 ```
 
-## :books: Documentation links
-- Free computer science books [link](http://www.allitebooks.org/)
-- Natural Language Processing (NLP) [link](https://github.com/KhazriAchraf/Text_Classification)
-- Image caption [link](https://github.com/tensorflow/models/tree/master/research/im2txt)
-- Face library Dlib github Readme file [link](https://github.com/ageitgey/face_recognition)
-- Face detection and recognition Raspberry Pi [Link](https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/)
-- Open source ChatBot library [Link](https://rasa.com)
-
-## Licence
-GuideMeGlasses
-:eyeglasses:
