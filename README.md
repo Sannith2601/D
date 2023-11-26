@@ -6,12 +6,12 @@ This initiative aims to assist individuals with visual impairments by enabling t
 
 
 ##  Matriels
-Raspberry Pi
-Camera
-Battery
-Aurdino nano 3 
-wireless bluetooth
-Dsiplay for aurdino
+- Raspberry Pi
+- Camera
+- Battery
+- Aurdino nano 3 
+- wireless bluetooth
+- Dsiplay for aurdino
 
 ##  Usage
 
